@@ -1,0 +1,15 @@
+app-eggs
+customextension.o
+main.o
+moc_customextension.cpp
+moc_customextension.o
+moc_predefs.h
+qrc_resources.cpp
+qrc_resources.o
+qwayland-custom.cpp
+qwayland-custom.h
+qwayland-custom.o
+wayland-custom-client-protocol.h
+wayland-custom-protocol.c
+wayland-custom-protocol.o
+
