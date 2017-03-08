@@ -39,7 +39,7 @@ WaylandOutput {
     window: Window {
         id: screen
         width: 800
-        height: 400
+        height: 800
         visible: true
 
         WaylandMouseTracker {
